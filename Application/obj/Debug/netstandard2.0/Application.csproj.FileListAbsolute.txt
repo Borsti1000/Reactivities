@@ -1,0 +1,13 @@
+/Users/torsten/Projekte/udemy/Reactivities/Application/bin/Debug/netstandard2.0/Application.deps.json
+/Users/torsten/Projekte/udemy/Reactivities/Application/bin/Debug/netstandard2.0/Application.dll
+/Users/torsten/Projekte/udemy/Reactivities/Application/bin/Debug/netstandard2.0/Application.pdb
+/Users/torsten/Projekte/udemy/Reactivities/Application/bin/Debug/netstandard2.0/Domain.dll
+/Users/torsten/Projekte/udemy/Reactivities/Application/bin/Debug/netstandard2.0/Persistence.dll
+/Users/torsten/Projekte/udemy/Reactivities/Application/bin/Debug/netstandard2.0/Domain.pdb
+/Users/torsten/Projekte/udemy/Reactivities/Application/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/torsten/Projekte/udemy/Reactivities/Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache
+/Users/torsten/Projekte/udemy/Reactivities/Application/obj/Debug/netstandard2.0/Application.AssemblyInfoInputs.cache
+/Users/torsten/Projekte/udemy/Reactivities/Application/obj/Debug/netstandard2.0/Application.AssemblyInfo.cs
+/Users/torsten/Projekte/udemy/Reactivities/Application/obj/Debug/netstandard2.0/Application.csproj.CopyComplete
+/Users/torsten/Projekte/udemy/Reactivities/Application/obj/Debug/netstandard2.0/Application.dll
+/Users/torsten/Projekte/udemy/Reactivities/Application/obj/Debug/netstandard2.0/Application.pdb
