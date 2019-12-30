@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Persistence;
 using MediatR;
+using Microsoft.AspNetCore.Mvc;
 
 namespace API
 {
@@ -30,13 +31,14 @@ namespace API
             {
                 opt.AddPolicy("CorsPolicy",policy =>
                 {
-                    policy.AllowAnyHeader().AllowAnyHeader().WithOrigins("http://localhost:3000");
+                    policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000");                    
                 });
             });
 
+            
             services.AddMediatR(typeof(Application.Activities.List.Handler).Assembly);
             services.AddControllers();
-            
+                        
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -59,6 +61,8 @@ namespace API
             {
                 endpoints.MapControllers();
             });
+
+            
         }
     }
 }
